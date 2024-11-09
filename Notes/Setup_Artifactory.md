@@ -45,11 +45,3 @@ For Latest version of Artifactory Pro [download it from here](https://jfrog.com/
 
 ## Not able to start Artifactory services?
  Make sure You meet the Artifactory [system requirements](https://www.jfrog.com/confluence/display/JFROG/System+Requirements)
-
----
----
-
-### Integrate Artifactory with Jenkins [Click here](https://youtu.be/BVxhLIfunmI)
-### Integrate Artifactory with Maven [Yet to release]()
-### How to install Maven on EC2 instance [Click here](https://youtu.be/wgfsVmHnAiM)
-### How to install Jenkins on EC2 instance [Click here](https://youtu.be/M32O4Yv0ANc)

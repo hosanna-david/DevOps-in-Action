@@ -2,8 +2,8 @@
 
 
 ## pre-requisites
-1. An Artifactory server [Click here to setup](https://youtu.be/eB6CDSR8VCA)
-1. A Jenkins Server [Click here to setup](https://youtu.be/M32O4Yv0ANc)
+1. An Artifactory server
+1. A Jenkins Server
 
 ## Integration Steps
 Login to Jenkins to integrate Artifactory with Jenkins  
@@ -26,7 +26,7 @@ Login to Jenkins to integrate Artifactory with Jenkins
 1. Create a new job 
   - Job Name : `artifactory-project`
   - Source code management 
-     - Git URL : [get URL here](https://github.com/yankils/hello-world.git)
+     - Git URL : 
  - Build Environment 
      - Maven3-Artifactory Integration : `<provide Artifactory server and repository details
 >`
@@ -41,7 +41,7 @@ Login to Jenkins to integrate Artifactory with Jenkins
 1. Create a new job 
   - Job Name : `artifactory-project`
   - Source code management 
-     - Git URL : [get URL here](https://github.com/yankils/hello-world.git)
+     - Git URL : 
  - Build Environment 
      - Resolve artifacts from Artifactory : `<provide Artifactory server and repository details>`
  - Build 

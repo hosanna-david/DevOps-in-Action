@@ -29,7 +29,7 @@ Log into the Jenkins to install mailer plugin
 1. Create a new job 
   - Job Name : `test-email-job`
   - Source code management 
-     - Git URL : [get URL here](https://github.com/yankils/hello-world.git)
+     - Git URL : 
  - Build Environment 
      - Maven3-Artifactory Integration : `<provide Artifactory server and repository details
 >`

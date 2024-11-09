@@ -1,8 +1,8 @@
 # Run a Jenkins job with GitHub webhook
 
 ## pre-requisites
-1. A Jenkins Server [Click here for help]()
-1. A GitHub repository [Click here for help]()
+1. A Jenkins Server 
+1. A GitHub repository 
 
 ## Integration Steps
 Log into the Jenkins 
@@ -13,7 +13,7 @@ Log into the Jenkins
 1. Create a new job 
   - Job Name : `WebhookTestJob`
     - Source code management 
-       - Git URL : [get URL here](https://github.com/yankils/hello-world.git)
+       - Git URL :
     - Build Triggers
        - [X] `GitHub hook trigger for GITScm polling`
 
